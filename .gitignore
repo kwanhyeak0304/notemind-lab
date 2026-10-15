@@ -1,0 +1,10 @@
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/app-starter/
+!/docker/
+!/start.py
+
+.DS_Store
+.START_GUIDE.ko.md
